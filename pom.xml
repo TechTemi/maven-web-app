@@ -7,9 +7,9 @@
 	<packaging>war</packaging>
 	<version>1.0.0-RELEASE</version>
 	
-	<name>maven-web-application</name>
+	<name>RBC</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>RBC Web Project for Java Project</description>
 
 	<organization>
 		<name>Acada Learning</name>
